@@ -15505,7 +15505,7 @@ span.select2-selection.select2-selection--single:focus {
   -webkit-transition: all 0.3s ease-in-out 0s;
   transition: all 0.3s ease-in-out 0s;
   margin-bottom: 30px;
-  border: 3px solid #11486d;
+  border: 3px solid #714c1e;
 }
 
 .blog-card .blog-img {
@@ -18514,7 +18514,7 @@ span.select2-selection.select2-selection--single:focus {
   content: '';
   position: absolute;
   inset: 0;
-  background: #181a2b;
+  background: #18170d;
   opacity: 0.8;
 }
 .cta-area-2 {
@@ -18527,7 +18527,7 @@ span.select2-selection.select2-selection--single:focus {
   content: '';
   position: absolute;
   inset: 0;
-  background: #181a2b;
+  background: #18170d;
   opacity: 0.8;
 }
 .footer-wrapper:before{
@@ -18537,7 +18537,7 @@ span.select2-selection.select2-selection--single:focus {
   content: '';
   position: absolute;
   inset: 0;
-  background: #181a2b;
+  background: #18170d;
   opacity: 0.9;
 }
 .eventssec:before{
@@ -18547,7 +18547,7 @@ span.select2-selection.select2-selection--single:focus {
   content: '';
   position: absolute;
   inset: 0;
-  background: #181a2b;
+  background: #18170d;
   opacity: 0.9;
 }
 
